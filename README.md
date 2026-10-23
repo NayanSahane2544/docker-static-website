@@ -82,7 +82,7 @@ Docker Compose simplifies running this unit with predefined network settings.
 
 ## 🏗️ Architecture
 
-![Docker Static Website Architecture](Architecture.png)
+![Docker Static Website Architecture](Architecture_Diagram.png)
 
 ### 🔄 Request Flow
 
