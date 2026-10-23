@@ -82,7 +82,7 @@ Docker Compose simplifies running this unit with predefined network settings.
 
 ## 🏗️ Architecture
 
-![Docker Static Website Architecture](Architecture_Diagram.png)
+![Docker Static Website Architecture](Architecture.png)
 
 ### 🔄 Request Flow
 
@@ -123,7 +123,7 @@ The following table illustrates how the host environment translates to the isola
 Watch the project deployment directly below.
 
 <p align="center">
-  <img src="Demo.gif" alt="Docker Deployment Demo" width="800">
+  <img src="demo.gif" alt="Docker Deployment Demo" width="800">
   <br>
   *(Add a GIF of your Killercoda deployment process here)*
 </p>
